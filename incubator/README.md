@@ -1,12 +1,3 @@
-# tidy data
-
-This folder should contain the tidy, wrangled versions of the datasets and their corresponding data dictionaries (maybe as pdfs generated from wrangling markdown file in raw data folder?)
-
-As you finish datasets, please add just a brief description of the dataset to this README.md file (example below)
-
-# dwomen: Depression and children
-
-The data give the number of women from a sample in Camberwell, South London, who developed depression in a one-year period (from the GLMsData package)
 
 # nycarcrahes: New York Boroughs and Car Crashes
 
@@ -14,14 +5,6 @@ This dataset gives information regarding motor vehicle crashes in NYC. In which 
 
 1. Which borough(s) of New York has the most number of car crashes?
 2. In what month were the most number of people killed?
-
-
-# gunviolence: Gun Violence 
-
-This dataset contains data and information from records of over 260k US gun violence incidents from January 2013 to March 2018.
-
-1. In which state(s) were there the most incidences of gun violence?
-2. Which months had the most number of people killed as a result of gun violence related incidents?
 
 
 # titanic: Titanic Survival Data
@@ -64,10 +47,5 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. It
 3. What are the most popular ratings amongst movies? amongst TV shows?
 4. What was the most popular rating among content added to Netflix in 2018?
 
-# uscovid: Coronavirus in the US
 
-This dataset contains information regarding the daily case reports of COVID-19 within the US, updated and maintained by JHU CSSE at https://github.com/CSSEGISandData/COVID-19 for all states in the US.
-
-1. Which state has the highest mortality rate as a result of COVID-19?
-2. In what region of the US have there been the most confirmed cases of COVID-19? 
 
