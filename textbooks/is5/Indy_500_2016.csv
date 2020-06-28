@@ -1,0 +1,101 @@
+"Year","Winner","Chassis","Engine","Time_Hours","Speed_mph","Car_No","Start","Car_Name","Date","Distance","Qual_Speed","Race_Time","Hours","Minutes","Seconds"
+1911,"Ray Harroun","Marmon","Marmon","6.70222222",74.602,32,28,"Marmon ""Wasp""","30-May",500,0,"6:42:08",6,42,8
+1912,"Joe Dawson","National","National","6.35166667",78.719,8,7,"National","30-May",500,86.13,"6:21:06",6,21,6
+1913,"Jules Goux","Peugeot","Peugeot","6.58472222",75.933,16,7,"Peugeot","30-May",500,86.03,"6:35:05",6,35,5
+1914,"Rene Thomas","Delage","Delage","6.0625",82.474,16,15,"Delage","30-May",500,94.54,"6:03:45",6,3,45
+1915,"Ralph DePalma","Mercedes","Mercedes","5.56541944",89.84,2,2,"Mercedes","31-May",500,98.58,"5:33:55.51",5,33,55.51
+1916,"Dario Resta","Peugeot","Peugeot","3.57138889",84.001,17,4,"Peugeot","30-May",300,94.4,"3:34:17",3,34,17
+1919,"Howdy Wilcox","Peugeot","Peugeot","5.678575",88.05,3,2,"Peugeot","31-May",500,100.01,"5:40:42.87",5,40,42.87
+1920,"Gaston Chevrolet","Frontenac","Frontenac","5.64222222",88.618,4,6,"Monroe","31-May",500,91.55,"5:38:32.00",5,38,32
+1921,"Tommy Milton","Frontenac","Frontenac","5.57906944",89.621,2,20,"Frontenac","30-May",500,93.05,"5:34:44.65",5,34,44.65
+1922,"Jimmy Murphy","Duesenberg","Miller","5.29188611",94.484,35,1,"Murphy","30-May",500,100.5,"5:17:30.79",5,17,30.79
+1923,"Tommy Milton","Miller","Miller","5.49726944",90.954,1,1,"H.C.S.","30-May",500,108.17,"5:29:50.17",5,29,50.17
+1924,"L.L. Corum / Joe Boyer","Duesenberg","Duesenberg","5.08986389",98.234,15,21,"Duesenberg","30-May",500,93.33,"5:05:23.51",5,5,23.51
+1925,"Pete DePaolo","Duesenberg","Duesenberg","4.94429444",101.127,12,2,"Duesenberg","30-May",500,113.08,"4:56:39.46",4,56,39.46
+1926,"Frank Lockhart","Miller","Miller","4.17081944",95.904,15,20,"Miller","31-May",400,95.78,"4:10:14.95",4,10,14.95
+1927,"George Souders","Duesenberg","Duesenberg","5.12585556",97.545,32,22,"Duesenberg","30-May",500,111.55,"5:07:33.08",5,7,33.08
+1928,"Louis Meyer","Miller","Miller","5.02604167",99.482,14,13,"Miller","30-May",500,28.25,"5:01:33.75",5,1,33.75
+1929,"Ray Keech","Miller","Miller","5.12372778",97.585,2,6,"Simplex Piston Ring","30-May",500,114.9,"5:07:25.42",5,7,25.42
+1930,"Billy Arnold","Summers","Miller","4.9777",100.448,4,1,"Miller-Hartz","30-May",500,113.26,"4:58:39.72",4,58,39.72
+1931,"Louis Schneider","Stevens","Miller","5.174425",96.629,23,13,"Bowes Seal Fast","30-May",500,107.21,"5:10:27.93",5,10,27.93
+1932,"Fred Frame","Wetteroth","Miller","4.80105278",104.144,34,27,"Miller-Hartz","30-May",500,113.85,"4:48:03.79",4,48,3.79
+1933,"Louis Meyer","Miller","Miller","4.8125",104.162,36,6,"Tydol","30-May",500,116.97,"4:48.75",4,48,45
+1934,"Bill Cummings","Miller","Miller","4.76811111",104.863,7,10,"Boyle Products","30-May",500,116.11,"4:46:05.20",4,46,5.2
+1935,"Kelly Petillo","Wetteroth","Offy","4.70630833",106.24,5,22,"Gilmore Speedway","30-May",500,115.09,"4:42:22.71",4,42,22.71
+1936,"Louis Meyer","Stevens","Miller","4.584275",109.069,8,28,"Ring Free","30-May",500,114.17,"4:35:03.39",4,35,3.39
+1937,"Wilbur Shaw","Shaw","Offy","4.40216667",113.58,6,2,"Shaw-Gilmore","31-May",500,122.79,"4:24:07.80",4,24,7.8
+1938,"Floyd Roberts","Wetteroth","Miller","4.24955556",117.2,23,1,"Burd Piston Ring","30-May",500,125.68,"4:14:58.40",4,14,58.4
+1939,"Wilbur Shaw","Maserati","Maserati","4.34649722",115.035,2,3,"Boyle","30-May",500,128.97,"4:20:47.390",4,20,47.39
+1940,"Wilbur Shaw","Maserati","Maserati","4.375325",114.277,1,2,"Boyle","30-May",500,127.06,"4:22:31.17",4,22,31.17
+1941,"Floyd Davis / Mauri Rose","Wetteroth","Offy","4.3434",115.117,16,17,"Noc-Out Hose Clamp","30-May",500,121.1,"4:20:36.24",4,20,36.24
+1946,"George Robson","Adams","Sparks","4.35463889",114.82,16,15,"Thorne Engineering","30-May",500,125.54,"4:21:16.70",4,21,16.7
+1947,"Mauri Rose","Deidt","Offy","4.297825",116.338,27,3,"Blue Crown Spark Plug","30-May",500,120.04,"4:17:52.17",4,17,52.17
+1948,"Mauri Rose","Deidt","Offy","4.17314722",119.814,3,3,"Blue Crown Spark Plug","31-May",500,129.12,"4:10:23.33",4,10,23.33
+1949,"Bill Holland","Deidt","Offy","4.12110278",121.327,7,4,"Blue Crown Spark Plug","30-May",500,128.67,"4:07:15.97",4,7,15.97
+1950,"Johnnie Parsons","Kurtis","Offy","2.78221389",124.022,1,5,"Wynn's Friction Proofing","30-May",345,132.04,"2:46:55.97",2,46,55.97
+1951,"Lee Wallard","Kurtis","Offy","3.96056944",126.244,99,2,"Belanger Motors","30-May",500,135.03,"3:57:38.05",3,57,38.05
+1952,"Troy Ruttman","Kuzma","Offy","3.8783",128.922,98,7,"Agajanian","30-May",500,135.36,"3:52:41.88",3,52,41.88
+1953,"Bill Vukovich","KK500A","Offy","3.88380278",127.74,14,1,"Fuel Injection","30-May",500,138.39,"3:53:01.69",3,53,1.69
+1954,"Bill Vukovich","KK500A","Offy","3.82146389",130.84,14,19,"Fuel Injection","31-May",500,138.47,"3:49:17.27",3,49,17.27
+1955,"Bob Sweikert","KK500D","Offy","3.89984167",128.209,6,14,"John Zink","30-May",500,139.99,"3:53:59.43",3,53,59.43
+1956,"Pat Flaherty","Watson","Offy","3.89134444",128.49,8,1,"John Zink","30-May",500,145.59,"3:53:28.84",3,53,28.84
+1957,"Sam Hanks","Salih","Offy","3.68729167",135.601,9,13,"Belond Exhaust","30-May",500,142.81,"3:41:14.25",3,41,14.25
+1958,"Jimmy Bryan","Salih","Offy","3.73716667",133.791,1,7,"Belond A.P.","30-May",500,144.18,"3:44:13.80",3,44,13.8
+1959,"Rodger Ward","Watson","Offy","3.68033333",135.857,5,6,"Leader Card 500 Roadster","30-May",500,144.03,"3:40:49.20",3,40,49.2
+1960,"Jim Rathmann","Watson","Offy","3.60315556",138.767,4,2,"Ken-Paul","30-May",500,146.37,"3:36:11.36",3,36,11.36
+1961,"A.J. Foyt","Trevis","Offy","3.59374722",139.13,1,7,"Bowes Seal Fast","30-May",500,145.9,"3:35:37.49",3,35,37.49
+1962,"Rodger Ward","Watson","Offy","3.56398056",140.293,3,2,"Leader Card 500 Roadster","30-May",500,149.37,"3:33:50.33",3,33,50.33
+1963,"Parnelli Jones","Watson","Offy","3.49316667",143.137,98,1,"Agajanian Willard Battery","30-May",500,151.15,"3:29:35.40",3,29,35.4
+1964,"A.J. Foyt","Watson","Offy","3.39328611",147.35,1,5,"Sheraton-Thompson","30-May",500,154.67,"3:23:35.83",3,23,35.83
+1965,"Jim Clark","Lotus","Ford","3.31815",150.686,82,2,"Lotus powered by Ford","31-May",500,160.72,"3:19:05.34",3,19,5.34
+1966,"Graham Hill","Lola","Ford","3.46459167",144.317,24,15,"American Red Ball","30-May",500,159.24,"3:27:52.53",3,27,52.53
+1967,"A.J. Foyt","Coyote","Ford","3.30672778",151.207,14,4,"Sheraton-Thompson","30-31-May",500,166.28,"3:18:24.22",3,18,24.22
+1968,"Bobby Unser","Eagle","Offy","3.27048889",152.882,3,3,"Rislone","30-May",500,169.5,"3:16:13.76",3,16,13.76
+1969,"Mario Andretti","Hawk III","Ford","3.18741944",156.867,2,2,"STP Oil Treatment","30-May",500,169.85,"3:11:14.71",3,11,14.71
+1970,"Al Unser","P.J. Colt","Ford","3.21028889",155.749,2,1,"Johnny Lightning 500","30-May",500,170.22,"3:12:37.04",3,12,37.04
+1971,"Al Unser","P.J. Colt","Ford","3.16987778",157.735,1,5,"Johnny Lightning","29-May",500,174.52,"3:10:11.56",3,10,11.56
+1972,"Mark Donohue","McLaren","Offy","3.06820556",162.962,66,3,"Sunoco McLaren","27-May",500,191.4,"3:04:05.54",3,4,5.54
+1973,"Gordon Johncock","Eagle","Offy","2.09071944",159.036,20,11,"STP Double Oil Filter","28-30-May",332.5,192.55,"2:05:26.59",2,5,26.59
+1974,"Johnny Rutherford","McLaren","Offy","3.15279444",158.589,3,25,"McLaren","26-May",500,190.44,"3:09:10.06",3,9,10.06
+1975,"Bobby Unser","Eagle","Offy","2.9153",149.213,48,3,"Jorgensen Eagle","25-May",435,191.07,"2:54:55.08",2,54,55.08
+1976,"Johnny Rutherford","McLaren","Offy","1.71457778",148.725,2,1,"Hy-Gain","30-May",255,188.95,"1:42:52.48",1,42,52.48
+1977,"A.J. Foyt","Coyote","Foyt","3.09921111",161.331,14,4,"Gilmore Racing Team","29-May",500,194.56,"3:05:57.16",3,5,57.16
+1978,"Al Unser","Lola","Cosworth","3.09860833",161.363,2,5,"1st National City Travelers Checks","28-May",500,196.47,"3:05:54.99",3,5,54.99
+1979,"Rick Mears","Penske","Cosworth","3.14665833",158.899,9,1,"The Gould Charge","27-May",500,193.73,"3:08:47.97",3,8,47.97
+1980,"Johnny Rutherford","Chaparral","Cosworth","3.49987778",142.862,4,1,"Pennzoil","25-May",500,192.25,"3:29:59.56",3,29,59.56
+1981,"Bobby Unser","Penske","Cosworth","3.59493889",139.184,3,1,"Norton Spirit","24-May",500,200.54,"3:35:41.78",3,35,41.78
+1982,"Gordon Johncock","Wildcat","Cosworth","3.08587222",162.029,20,5,"STP Oil Treatment","30-May",500,201.88,"3:05:09.14",3,5,9.14
+1983,"Tom Sneva","March","Cosworth","3.08418333",162.117,5,4,"Texaco Star","29-May",500,203.68,"3:05:03.06",3,5,3.06
+1984,"Rick Mears","March","Cosworth","3.05601667",163.612,6,3,"Pennzoil Z-7","27-May",500,207.84,"3:03:21.66",3,3,21.66
+1985,"Danny Sullivan","March","Cosworth","3.26835",152.982,5,8,"Miller American","26-May",500,210.29,"3:16:06.06",3,16,6.06
+1986,"Bobby Rahal","March","Cosworth","2.92874444",170.722,3,4,"Budweiser","31-May",500,213.55,"2:55:43.48",2,55,43.48
+1987,"Al Unser","March","Cosworth","3.08309444",162.175,25,20,"Cummins/Holset Turbo","24-May",500,207.42,"3:04:59.14",3,4,59.14
+1988,"Rick Mears","Penske","Chevrolet Indy","3.45283444",144.809,5,1,"Pennzoil Z-7","29-May",500,219.19,"3:27:10.204",3,27,10.204
+1989,"Emerson Fittipaldi","Penske","Chevrolet Indy","2.98362472",167.581,20,3,"Marlboro","28-May",500,222.32,"2:59:01.049",2,59,1.049
+1990,"Arie Luyendyk","Lola","Chevrolet Indy","2.68844556",185.981,30,3,"Domino's Pizza","27-May",500,223.304,"2:41:18.404",2,41,18.404
+1991,"Rick Mears","Penske","Chevrolet Indy A","2.83355306",176.457,3,1,"Marlboro","26-May",500,224.113,"2:50:00.791",2,50,0.791
+1992,"Al Unser Jr.","Galmer","Chevrolet Indy A","3.71809667",134.477,3,12,"Valvoline","24-May",500,222.989,"3:43:05.148",3,43,5.148
+1993,"Emerson Fittipaldi","Penske","Chevrolet Indy C","3.18051667",157.207,4,9,"Marlboro","30-May",500,220.15,"3:10:49.860",3,10,49.86
+1994,"Al Unser Jr.","Penske","Mercedes Benz","3.10805722",160.872,31,1,"Marlboro Penske","29-May",500,228.011,"3:06:29.006",3,6,29.006
+1995,"Jacques Villeneuve","Reynard","Ford Cosworth XB","3.25487806",153.616,27,5,"Player's LTD/Team Green","28-May",500,228.39,"3:15:17.561",3,15,17.561
+1996,"Buddy Lazier","Reynard","Ford Cosworth XB","3.37937583",147.956,91,5,"Hemelgarn Racing-Delta Faucet-Montana","26-May",500,231.46,"3:22:45.753",3,22,45.753
+1997,"Arie Luyendyk","G Force","Oldsmobile Aurora","3.42871889",145.827,5,1,"Wavephore/Sprint PCS/Miller Lite/Provimi","26-27-May",500,218.263,"3:25:43.388",3,25,43.388
+1998,"Eddie Cheever Jr.","Dallara","Oldsmobile Aurora","3.44459",145.155,51,17,"Rachel's Potato Chips","24-May",500,217.334,"3:26:40.524",3,26,40.524
+1999,"Kenny Brack","Dallara","Oldsmobile Aurora","3.26421722",153.176,14,8,"A.J. Foyt PowerTeam Racing","30-May",500,222.659,"3:15:51.182",3,15,51.182
+2000,"Juan Pablo Montoya","G Force","Oldsmobile","2.98317528",167.607,9,2,"Target","28-May",500,223.372,"2:58:59.431",2,58,59.431
+2001,"Helio Castroneves","Dallara","Oldsmobile","3.53171667",141.574,68,11,"Marlboro Team Penske","27-May",500,224.142,"3:31:54.1800",3,31,54.18
+2002,"Helio Castroneves","Dallara","Chevrolet","3.00301983",166.499,3,13,"Marlboro Team Penske","26-May",500,229.052,"3:00:10.8714",3,0,10.8714
+2003,"Gil de Ferran","Panoz G Force","Toyota","3.19916364",156.291,6,10,"Marlboro Team Penske","25-May",500,228.633,"3:11:56.9891",3,11,56.9891
+2004,"Buddy Rice","Panoz G Force","Honda","3.24867764",138.518,15,1,"Rahal-Letterman Argent/Pioneer","30-May",450,222.024,"3:14:55.2395",3,14,55.2395
+2005,"Dan Wheldon","Dallara","Honda","3.17271361",157.603,26,16,"Klein Tools/Jim Beam","29-May",500,224.308,"3:10:21:0769",3,10,21.769
+2006,"Sam Hornish Jr.","Dallara","Honda","3.18298861",157.085,6,1,"Marlboro Team Penske","28-May",500,228.985,"3:10:58.7590",3,10,58.759
+2007,"Dario Franchitti","Dallara","Honda","2.73432244",151.774,27,3,"Canadian Club","27-May",415,225.191,"2:44:03.5608",2,44,3.5608
+2008,"Scott Dixon","Dallara","Honda","3.48268867",143.567,9,1,"Target Chip Ganassi Racing","25-May",500,226.366,"3:28:57.6792",3,28,57.6792
+2009,"Helio Castroneves","Dallara","Honda","3.32628964",150.318,3,1,"Team Penske","24-May",500,224.864,"3:19:34.6427",3,19,34.6427
+2010,"Dario Franchitti","Dallara","Honda","3.09361475",161.623,10,3,"Target Chip Ganassi Racing","30-May",500,226.99,"3:05:37.0131",3,5,37.0131
+2011,"Dan Wheldon","Dallara","Honda","2.93659075",170.265,98,6,"William Rast - Curb/Big Machine","30-May",500,226.49,"2:56:11.7267",2,56,11.7267
+2012,"Dario Franchitti","Dallara","Honda","2.98090367",167.734,50,16,"Target Chip Ganassi Racing","30-May",500,223.582,"2:58:51.2532",2,58,51.2532
+2013,"Tony Kanaan","Dallara","Chevrolet","2.66761614",187.433,11,12,"Hydroxycut KV Racing Technology-SH Racing","30-May",500,226.949,"2:40:03.4181",2,40,3.4181
+2014,"Ryan Hunter-Reay","Dallara","Honda","2.68006403",186.563,28,19,"DHL Honda","25-May",500,229.719,"2:40:48.2305",2,40,48.2305
+2015,"Juan Pablo Montoya","Dallara","Chevrolet","3.0990357",161.314,2,,,"24-May",500,,"3:05:56.5286",3,5,56.5286
+2016,"Alexander Rossi","Dallara","Honda","3..00058",166.634,98,,,"29-May",500,,"3:00:02.0872",3,0,872
