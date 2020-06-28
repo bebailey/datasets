@@ -328,3 +328,4 @@ docs/
 
 # additional
 .DS_Store
+private-use/*

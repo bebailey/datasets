@@ -1,0 +1,101 @@
+subject,town,foam,DOMS,age,weight,BMI,race,smoker,sex,income
+1,Eagleton,1,1.8,22,195,27.977,Black,0,male,> 100K
+2,Pawnee,0,6.8,23,177,28.565,White,0,male,50K to < 75K
+3,Eagleton,0,4.7,22,181,26.726,Black,0,female,25K to < 50K
+4,Pawnee,1,0,34,186,34.016,Black,0,female,25K to < 50K
+5,Pawnee,0,9.5,25,192,28.35,Asian,0,male,25K to < 50K
+6,Eagleton,1,0.7,21,195,31.47,White,0,female,> 100K
+7,Eagleton,1,4.1,29,215,31.746,White,0,male,75K to < 100K
+8,Eagleton,0,5.3,22,151,26.746,Black,0,female,25K to < 50K
+9,Eagleton,0,7.1,32,203,35.956,White,0,female,50K to < 75K
+10,Pawnee,0,4.2,20,231,37.28,White,0,female,75K to < 100K
+11,Pawnee,1,0.3,29,175,33.062,White,0,female,75K to < 100K
+12,Eagleton,0,5.1,25,183,36.957,Asian,0,female,50K to < 75K
+13,Pawnee,1,1.7,38,222,35.828,White,0,female,25K to < 50K
+14,Pawnee,0,8.1,37,224,28.757,White,0,male,50K to < 75K
+15,Eagleton,1,5.3,44,192,26.037,White,0,male,> 100K
+16,Pawnee,0,8.4,39,207,33.407,no answer,1,female,25K to < 50K
+17,Eagleton,0,9.7,31,204,31.947,White,0,male,25K to < 50K
+18,Eagleton,0,5.1,27,172,29.521,White,0,female,25K to < 50K
+19,Pawnee,1,1.3,32,207,37.857,White,0,female,no answer
+20,Pawnee,0,8.3,41,229,31.055,Black,0,male,50K to < 75K
+21,Pawnee,1,1,35,173,24.82,White,0,male,> 100K
+22,Eagleton,1,3.1,31,177,29.451,White,0,female,75K to < 100K
+23,Eagleton,0,6.8,27,169,26.466,White,0,female,50K to < 75K
+24,Pawnee,0,3.1,26,209,37.019,White,0,female,75K to < 100K
+25,Pawnee,0,4.6,34,217,37.244,White,0,female,75K to < 100K
+26,Pawnee,1,1,31,229,33.814,White,0,male,> 100K
+27,Eagleton,0,8.2,32,150,26.568,White,0,female,> 100K
+28,Pawnee,0,6.3,37,188,30.341,Black,0,female,75K to < 100K
+29,Pawnee,0,5.6,18,231,30.473,White,0,male,> 100K
+30,Pawnee,1,1.8,37,246,39.701,Black,0,female,10K to < 25K
+31,Eagleton,1,2.4,41,184,27.974,White,0,female,75K to < 100K
+32,Eagleton,0,5.8,22,139,23.128,White,0,female,25K to < 50K
+33,Eagleton,1,2.7,32,137,24.266,Native American,0,female,10K to < 25K
+34,Eagleton,0,8.5,38,141,22.756,White,0,female,75K to < 100K
+35,Pawnee,0,3.5,30,162,28.694,Black,0,female,no answer
+36,Eagleton,1,1.2,31,173,26.302,White,0,female,> 100K
+37,Eagleton,0,6.1,29,155,24.274,White,0,female,50K to < 75K
+38,Eagleton,0,4.8,25,206,36.487,White,0,female,25K to < 50K
+39,Pawnee,1,0.5,21,195,32.446,White,0,female,10K to < 25K
+40,Pawnee,0,5.2,25,254,40.992,Black,0,female,50K to < 75K
+41,Pawnee,1,0.9,32,186,31.923,Mixed,0,female,25K to < 50K
+42,Pawnee,0,5.1,28,195,33.468,Black,1,female,10K to < 25K
+43,Eagleton,1,2.1,31,213,34.375,White,0,female,no answer
+44,Eagleton,1,3.6,31,186,29.129,Asian,0,male,25K to < 50K
+45,Eagleton,1,0.8,26,242,34.72,White,0,male,> 100K
+46,Pawnee,1,0.5,25,167,27.787,White,0,female,75K to < 100K
+47,Pawnee,1,2.1,23,211,29.425,White,0,male,50K to < 75K
+48,Eagleton,1,0.3,24,169,29.006,Asian,0,female,25K to < 50K
+49,Pawnee,1,0.1,33,275,44.381,White,0,female,25K to < 50K
+50,Pawnee,1,0.1,33,226,37.604,White,0,female,10K to < 25K
+51,Pawnee,0,7.8,32,179,32.736,White,0,female,50K to < 75K
+52,Pawnee,1,0.4,27,183,30.449,White,0,female,50K to < 75K
+53,Eagleton,0,5.3,25,219,37.587,Black,0,female,25K to < 50K
+54,Pawnee,0,2.7,26,154,28.164,Black,0,female,10K to < 25K
+55,Eagleton,0,5,21,148,26.214,Black,0,female,10K to < 25K
+56,Pawnee,1,0,36,180,23.746,White,0,female,75K to < 100K
+57,Pawnee,0,6.6,34,234,42.794,Black,0,female,25K to < 50K
+58,Eagleton,0,7.3,37,132,21.964,Black,0,female,> 100K
+59,Pawnee,0,4.6,33,276,45.924,no answer,0,female,25K to < 50K
+60,Eagleton,0,6,25,177,25.394,White,0,male,50K to < 75K
+61,Eagleton,1,2.4,44,180,29.05,White,0,female,50K to < 75K
+62,Pawnee,0,7,27,191,28.203,White,0,male,50K to < 75K
+63,Pawnee,1,1.8,26,193,27.69,White,0,male,> 100K
+64,Pawnee,1,0.6,26,186,28.278,White,0,male,50K to < 75K
+65,Eagleton,1,1.3,35,157,25.338,Black,0,female,no answer
+66,Pawnee,1,1,29,185,27.317,White,0,male,50K to < 75K
+67,Pawnee,1,2.8,42,159,27.289,White,0,female,> 100K
+68,Eagleton,1,2.2,20,195,31.47,White,0,female,75K to < 100K
+69,Pawnee,1,0.9,40,180,29.95,White,0,female,75K to < 100K
+70,Eagleton,1,2.7,23,196,28.941,White,0,male,50K to < 75K
+71,Pawnee,0,7.4,32,219,30.541,White,0,male,75K to < 100K
+72,Eagleton,1,1.7,28,203,26.78,White,0,male,no answer
+73,Eagleton,1,0.4,32,176,29.285,White,0,female,25K to < 50K
+74,Pawnee,0,4.5,34,152,24.531,White,0,female,75K to < 100K
+75,Pawnee,0,6.8,25,196,28.12,Black,0,male,< 10K
+76,Eagleton,0,6.5,24,207,37.857,White,0,female,75K to < 100K
+77,Pawnee,1,1,21,206,27.175,Black,0,male,75K to < 100K
+78,Eagleton,0,5.4,33,179,28.032,White,0,female,50K to < 75K
+79,Eagleton,1,4.7,30,167,23.959,Black,0,male,25K to < 50K
+80,Eagleton,0,9.3,36,202,29.827,White,0,male,> 100K
+81,Eagleton,1,1,29,204,38.541,White,0,female,25K to < 50K
+82,Eagleton,0,8.6,33,172,26.936,White,0,female,50K to < 75K
+83,Pawnee,0,7.8,37,152,25.291,White,0,female,50K to < 75K
+84,Pawnee,0,6.4,23,203,28.31,White,0,male,75K to < 100K
+85,Eagleton,1,2.8,22,225,28.885,White,0,male,> 100K
+86,Eagleton,1,4.5,35,210,33.891,White,0,female,25K to < 50K
+87,Eagleton,1,2.5,25,154,24.854,White,0,female,> 100K
+88,Pawnee,0,4.4,21,117,20.081,White,0,female,> 100K
+89,Eagleton,0,9.6,27,185,25.088,White,1,male,< 10K
+90,Eagleton,0,8.3,25,228,30.919,Black,0,male,25K to < 50K
+91,Eagleton,0,3.9,28,131,23.958,Black,0,female,no answer
+92,Pawnee,1,0.7,40,193,35.296,White,0,female,50K to < 75K
+93,Pawnee,0,4,35,185,31.752,White,0,female,> 100K
+94,Eagleton,1,2.5,28,162,24.629,White,0,male,75K to < 100K
+95,Eagleton,0,6,27,181,29.211,White,0,female,> 100K
+96,Pawnee,1,2.2,35,167,24.659,White,0,male,25K to < 50K
+97,Eagleton,0,7.7,40,187,26.078,White,0,male,50K to < 75K
+98,Eagleton,1,2,30,130,21.631,White,0,female,> 100K
+99,Pawnee,1,1.6,33,191,25.197,White,0,male,50K to < 75K
+100,Pawnee,1,1.5,23,204,35.013,White,0,female,25K to < 50K
