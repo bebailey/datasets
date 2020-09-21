@@ -1,0 +1,50 @@
+student	interest1	interest2	interest3
+1	anthropology		
+2	biochemistry	biophysics	
+3	biochemistry	math	
+4	biochemistry	statistics	chemistry
+5	biochemistry	math	
+6	biology	english	
+7	biology		
+8	biology	pre-med	
+9	biology	math	
+10	biology		
+11	biology	ALCS	
+12	biology	pre-med	
+13	biology		
+14	biology	math	
+15	chemistry	math	
+16	chemistry	math	
+17	computer science		
+18	economics	art history	
+19	economics	political science	
+20	economics	architectural studies	
+21	economics	computer science	
+22	economics		
+23	economics	psychology	
+24	economics	marketing	
+25	economics		
+26	geology	math	
+27	history	pre-med	
+28	LJST		
+29	math	environmental studies	
+30	math	environmental studies	
+31	math	economics	
+32	math	psychology	
+33	math	economics	
+34	math	philosophy	
+35	music	neuroscience	
+36	music	math	theater and art
+37	neuroscience		
+38	neuroscience		
+39	neuroscience		
+40	neuroscience	psychology	
+41	neuroscience		
+42	neuroscience		
+43	neuroscience	pre-med	
+44	neuroscience		
+45	psychology	pre-med	
+46	psychology		
+47	psychology	environmental studies	
+48	sociology	political science	
+49	sociology	economics	
